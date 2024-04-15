@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=886ce4&height=160&section=header&text=João%20Pedro&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1200&duration=5001&pause=1100&lines=☕+Bem-Vindo!+☕;+Me+chamo+João+Pedro.+Sou+um+entusiasta+da+tecnologia;Estudo+Análise+e+Desenvolvimento+de+Sistemas+na+UNIFAVIP+WYDEN+;Aqui+você+encontrará+projetos+feitos+por+mim,;+ou+projetos+que+participei.+;Obrigado!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1200&duration=5001&pause=1100&lines=☕+Bem-Vindo!+☕;+Amante+da+tecnologia;E+estudante+de+Análise+e+Desenvolvimento+de+Sistemas+na+UNIFAVIP+WYDEN+;Este+é+o+lugar+onde+você+pode+conferir+os+projetos+que+criei,;+ou+nos+quais+estive+envolvido.+;Obrigado+por+passar+por+aqui!+)](https://git.io/typing-svg)
 
 <div>
  <img align="right" width=250px alt="notebook picture" src="https://user-images.githubusercontent.com/62142146/208130941-c4543e17-d067-48ea-bec2-f0bd8765470e.png">
