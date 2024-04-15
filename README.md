@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=886ce4&height=160&section=header&text=João%20Pedro&fontSize=30&fontColor=00ffff&animation=twinkling&fontAlignY=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=886ce4&height=160&section=header&text=João%20Pedro&fontSize=30&fontColor=FFFFF&animation=twinkling&fontAlignY=35" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1200&duration=5001&pause=1100&lines=☕+Bem-Vindo!+☕;+Estudante+entusiasta+de+tecnologia;+Atualmente+Cursando+ADS+na+UNIFAVIP+WYDEN.+;+Espaço+dedicado+aos+projetos+que+desenvolvo+e+participo.+;Sinta-se+à+vontade+para+explorar.+Obrigado+pela+visita+)](https://git.io/typing-svg)
 
